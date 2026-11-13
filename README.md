@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOOMANO
-- 👀 I’m interested in CODING,ETHICAL HACKING and PENETRATION TESTING
-- 🌱 I’m currently learning ...PYTHON AND ETHICAL HACKING
+- 👀 I’m interested in STARTUP
+- 🌱 I’m currently learning ...CODING
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...HE
